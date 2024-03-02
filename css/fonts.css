@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'HK Grotesk';
+    src: url('/Mica/HKGrotesk-Regular') format('woff2'), /* formato WOFF2 para navegadores modernos */
+         url('/Mica/HKGrotesk-Regular') format('woff'); /* formato WOFF para navegadores antiguos */
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  /* También puedes agregar estilos para otros estilos y pesos de la fuente si los tienes */
+  @font-face {
+    font-family: 'HK Grotesk';
+    src: url('/Mica/HKGrotesk-Regular') format('woff2'),
+         url('/Mica/HKGrotesk-Regular') format('woff');
+    font-weight: bold;
+    font-style: normal;
+  }
+  
+  /* Asegúrate de ajustar las rutas a tus archivos de fuente reales */
+  
